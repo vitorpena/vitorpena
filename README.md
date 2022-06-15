@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vitorpena
+- 👀 I’m interested in Software Engineering and technologies overall.
+- 🌱 I’m currently learning newer JS frameworks such as Remix and RedwoodJS
+- 💞️ I’m looking to collaborate on distributed systems frameworks
+- 📫 How to reach me: send me a private message in GitHub or at LinkedIn
