@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vitorpena
 - 👀 I’m interested in Software Engineering and technologies overall.
-- 🌱 I’m currently learning newer JS frameworks such as Remix and RedwoodJS
+- 🌱 I’m currently learning new AI frameworks such as Langchain using Alpaca. I'm also brushing my skills in NestJS and the new Angular Signals feature.
 - 💞️ I’m looking to collaborate on distributed systems frameworks
 - 📫 How to reach me: send me a private message in GitHub or at LinkedIn
